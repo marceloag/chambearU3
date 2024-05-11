@@ -1,0 +1,7 @@
+{
+  "name": "Chambear-U3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
