@@ -1,0 +1,23 @@
+ion-content {
+  --background: white;
+  --color: #fff;
+}
+.logo{
+  width: 200px;
+  margin: auto;
+}
+.logo-s{
+  width: 50px;
+  margin: auto;
+}
+.content{
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+ion-head{
+  --background: red;
+}
+.h1{
+  font-weight: bolder;
+}

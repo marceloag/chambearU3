@@ -1,0 +1,10 @@
+.head{
+    background-color: #f1f1f1;
+}
+.content{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}

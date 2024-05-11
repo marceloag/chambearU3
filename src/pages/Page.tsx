@@ -1,7 +1,8 @@
-import { IonButtons, IonContent, IonHeader, IonMenuButton, IonPage, IonTitle, IonToolbar } from '@ionic/react';
+import { IonButtons, IonContent, IonHeader, IonMenuButton, IonPage, IonTitle, IonToolbar, IonImg } from '@ionic/react';
 import { useParams } from 'react-router';
 import ExploreContainer from '../components/ExploreContainer';
 import './Page.css';
+import { background } from 'native-base/lib/typescript/theme/styled-system';
 
 const Page: React.FC = () => {
 
@@ -9,22 +10,16 @@ const Page: React.FC = () => {
 
   return (
     <IonPage>
-      <IonHeader>
+      <IonHeader className='head'>
         <IonToolbar>
           <IonButtons slot="start">
             <IonMenuButton />
           </IonButtons>
-          <IonTitle>{name}</IonTitle>
+          <IonTitle></IonTitle>
         </IonToolbar>
       </IonHeader>
 
-      <IonContent fullscreen>
-        <IonHeader collapse="condense">
-          <IonToolbar>
-            <IonTitle size="large">{name}</IonTitle>
-          </IonToolbar>
-        </IonHeader>
-        <ExploreContainer name={name} />
+      <IonContent fullscreen className='content'>
       </IonContent>
     </IonPage>
   );
