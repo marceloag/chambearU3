@@ -48,7 +48,7 @@ const App: React.FC = () => {
           <Menu />
           <IonRouterOutlet id="main">
             <Route path="/" exact={true}>
-              <Redirect to="" />
+              <Redirect to="/Splash" />
             </Route>
              <Route path="/Splash" component={Splash} />
              <Route path="/Chambas" component={Chambas} />

@@ -6,7 +6,7 @@ Este proyecto es parte de la Unidad 3 del curso de Dispositivos Móviles. El obj
 
 ## Descripción del proyecto
 
-El proyecto consiste en crear una aplicación móvil que permita a los usuarios buscar y aplicar a ofertas de trabajo. La aplicación debe tener las siguientes funcionalidades:
+El proyecto consiste en crear la caáscara de navegación para una aplicación móvil que permita a los usuarios buscar y aplicar a ofertas de trabajo. La aplicación final tiene las siguientes funcionalidades:
 
 - Registro de usuarios: Los usuarios podrán crear una cuenta en la aplicación proporcionando su información personal.
 - Búsqueda de ofertas de trabajo: Los usuarios podrán buscar ofertas de trabajo utilizando diferentes criterios como ubicación, categoría, salario, etc.
@@ -21,3 +21,14 @@ El proyecto se desarrollará utilizando las siguientes tecnologías:
 - Ionic Framework
 - React
 
+## Instalación
+
+El proyecto esta construido con Ionic 7 y React, una vez clonado el repositorio debe ejecutar
+
+
+``` npm install ```
+
+
+## Ejecutar 
+
+Para ejecutar el proyecto,
