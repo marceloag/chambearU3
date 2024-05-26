@@ -28,20 +28,21 @@ El proyecto se desarrollará utilizando las siguientes tecnologías:
 
 ## Instalación
 
-El proyecto esta construido con Ionic 7.2.0 y React, una vez clonado el repositorio debe ejecutar
+El proyecto esta construido con Ionic 7.2.0 y React, una vez clonado el repositorio 
+
+``` git clone git@github.com:marceloag/chambearU3.git ```
+
+debe ejecutar
 
 
 ``` npm install ```
 
 
 ## Ejecución
-Primero debe clonar el repositorio, desde terminal ejecutando:
-
-``` git clone git@github.com:marceloag/chambearU3.git ```
 
 Para ejecutar el proyecto se debe utilizar el cli de ionic desde terminal
 
-``` cd chambear-u-3```  
+``` cd chambear-U3 ```  
 ``` ionic serve ```
 
 Si no tiene instalado el cli de ionic, puede instalarlo con el siguiente comando
