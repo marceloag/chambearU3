@@ -54,3 +54,17 @@ Para simular el viewport movil se debe abrir las developer tools en Chrome presi
 ``` Ctrl+Shift+I ``` o ``` Cmd+Opt+I ``` en OSX.
 
 
+# Trabajo Unidad 4 - Dispositivos Moviles
+
+## Componentes Añadidos
+
+En Ionic, un componente es una unidad modular y reutilizable de código que encapsula tanto la lógica como la presentación de una parte específica de la interfaz de usuario de una aplicación. Los componentes en Ionic se utilizan para construir y estructurar la interfaz de usuario de manera eficiente y coherente.
+
+Se construyeron las vistas para el inicio de sesión y la sección "Chambas", en estas vistas se agregaron los componentes:
+
++ IonCard como contenedor de los input de ingreso de usuario
++ IonInput para los campos de texto de usuario y password
++ IonList para la lista de Chambas
++ IonButton para diferentes botones en ambas vistas
+
+Cabe destacar que se incorporaron más elementos como parte de la diagramación pero se consideran estos como los mas relevantes para la funcionalidad de la aplicación
