@@ -68,3 +68,14 @@ Se construyeron las vistas para el inicio de sesión y la sección "Chambas", en
 + IonButton para diferentes botones en ambas vistas
 
 Cabe destacar que se incorporaron más elementos como parte de la diagramación pero se consideran estos como los mas relevantes para la funcionalidad de la aplicación
+
+## Parte B
+
+Para la parte B del desarrollo de la aplicación se agregaron componentes restantes para realizar el 50% restante de la aplicación, entre ellos:
+
++ IonProgressBar
++ IonChip 
++ IonCard y IonContent
+
+
+Para finalizar se configuró capacitor para crear el build para android en un APK sin firmar disponible en la carpeta /APK y en el siguiente link [Descargar APK](https://www.dropbox.com/scl/fi/15rj6caqceat74ftvgtrc/Chambear.apk?rlkey=yz4wg96ck9b5rzmej9piej6mf&dl=0)
